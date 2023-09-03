@@ -1,10 +1,10 @@
 livery = {
 
-	{"f18c1", 0 ,"F18C_1_DIFF_232",false};
+	{"f18c1", 0 ,"F18C_1_DIFF_S912",false};
 	{"f18c1", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
 
 	
-	{"f18c2", 0 ,"F18C_2_DIFF_232",false};
+	{"f18c2", 0 ,"F18C_2_DIFF_S912",false};
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 
 	
@@ -15,28 +15,28 @@ livery = {
 			
 	
 	
-	{"f18c1_number_nose_right", 0 ,"F18C_1_DIFF_232",false};
+	{"f18c1_number_nose_right", 0 ,"F18C_1_DIFF_S912",false};
 	{"f18c1_number_nose_right", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"f18c1_number_nose_right", DECAL ,"VMFA232_bort_number_RIGHT",false};
+	{"f18c1_number_nose_right", DECAL ,"VMFAS912_bort_number_RIGHT",false};
 	
-	{"f18c1_number_nose_left", 0 ,"F18C_1_DIFF_232",false};
+	{"f18c1_number_nose_left", 0 ,"F18C_1_DIFF_S912",false};
 	{"f18c1_number_nose_left", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"f18c1_number_nose_left", DECAL ,"VMFA232_bort_number_LEFT",false};	
+	{"f18c1_number_nose_left", DECAL ,"VMFAS912_bort_number_LEFT",false};	
 
-	{"f18c2_kil_right", 0 ,"F18C_2_DIFF_232",false};
+	{"f18c2_kil_right", 0 ,"F18C_2_DIFF_S912",false};
 	{"f18c2_kil_right", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"f18c2_kil_right", DECAL ,"empty",true};
 	
 
-	{"f18c2_kil_left", 0 ,"F18C_2_DIFF_232",false};
+	{"f18c2_kil_left", 0 ,"F18C_2_DIFF_S912",false};
 	{"f18c2_kil_left", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"f18c2_kil_left", DECAL ,"empty",true};
 	
-	{"f18c1_number_F", 0 ,"F18C_1_DIFF_232",false};
+	{"f18c1_number_F", 0 ,"F18C_1_DIFF_S912",false};
 	{"f18c1_number_F", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
 	{"f18c1_number_F", DECAL ,"empty",true};	
 
-	{"f18c2_number_X", 0 ,"F18C_2_DIFF_232",false};
+	{"f18c2_number_X", 0 ,"F18C_2_DIFF_S912",false};
 	{"f18c2_number_X", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"f18c2_number_X", DECAL ,"F18C_bort_number2",true};	
 	
@@ -44,7 +44,7 @@ livery = {
 	
 
 
-	{"FPU_8A", 0 ,"FPU_8A_232",false};
+	{"FPU_8A", 0 ,"FPU_8A_S912",false};
 	{"FPU_8A", 2 ,"FPU_8A_Diff_RoughMet",true};
 
 
@@ -54,7 +54,7 @@ livery = {
 
 
 }
-name = "VMFA-S191"
+name = "VMFA-S192"
 
 
 
