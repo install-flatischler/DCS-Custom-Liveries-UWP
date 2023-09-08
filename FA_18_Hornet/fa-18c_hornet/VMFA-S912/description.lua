@@ -8,12 +8,9 @@ livery = {
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 
 	{"pilot_F18_helmet", 0 ,"pilot_f18_helmet",false};
+	{"pilot_F18_helmet_glass", 0 ,"pilot_f18_visor",false};
 	
 
-
-
-			
-	
 	
 	{"f18c1_number_nose_right", 0 ,"F18C_1_DIFF_S912",false};
 	{"f18c1_number_nose_right", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};

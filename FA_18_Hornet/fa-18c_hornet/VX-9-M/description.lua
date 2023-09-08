@@ -7,8 +7,9 @@ livery = {
 	{"f18c2", 0 ,"F18C_1_DIFF_2_VX-9-M",false};
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 
+	{"pilot_F18_helmet", 0 ,"pilot_f18_helmet",false};
+	{"pilot_F18_helmet_glass", 0 ,"pilot_f18_visor",false};
 	
-			
 	
 	
 	{"f18c1_number_nose_right", 0 ,"F18C_1_DIFF_VX-9-M",false};
@@ -34,7 +35,7 @@ livery = {
 
 	{"f18c2_number_X", 0 ,"F18C_1_DIFF_2_VX-9-M",false};
 	{"f18c2_number_X", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"f18c2_number_X", DECAL ,"F18C_bort_number2",true};	
+	{"f18c2_number_X", DECAL ,"F18C_bort_number2",false};	
 	
 	
 	
