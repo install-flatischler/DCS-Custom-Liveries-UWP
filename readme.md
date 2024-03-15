@@ -4,12 +4,12 @@
    [![Discord](https://img.shields.io/discord/1148144263792701471.svg?color=7289da&label=Discord&logo=discord&logoColor=white&cacheSeconds=3600&style=plastic)](https://mee6.xyz/i/n0mgQanPM7)
    [![x64](https://img.shields.io/badge/Arch-x64-red.svg?style=plastic)](https://en.wikipedia.org/wiki/X86-64)
 
-	# **DCS Custom Liveries UWP**
-	## Check out the discord at [Link](https://mee6.xyz/i/n0mgQanPM7)
+   # **DCS Custom Liveries UWP
+   Check out the discord at [Link](https://mee6.xyz/i/n0mgQanPM7)
 	
-	## General
-	This project is only maintained by me - refer to the sections below for installation instructions and FAQ.
-	If you wish to contribute to the content provided here please submit a pull request message me directly using discord.
+   ## General
+   This project is only maintained by me - refer to the sections below for installation instructions and FAQ.
+   If you wish to contribute to the content provided here please submit a pull request message me directly using discord.
 
 </div>
 
