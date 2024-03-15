@@ -1,7 +1,7 @@
 local self_ID  = "Global Liveries Importer"
 local self_DEV = "StevenPUK"
 -- Provided by Skate Zilla Simulations
-local GlobalLiveriesPath = "%DCSLiveries%"
+local GlobalLiveriesPath = "C:\Users\<user>\Saved Games\DCS.Liveries"
 declare_plugin(self_ID,
 {
 installed 	 = true, 
