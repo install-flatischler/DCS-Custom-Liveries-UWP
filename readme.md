@@ -26,8 +26,8 @@
    3. Select Custom_DCS.ps1 with your mouse, open the interaction menu using RMB and select `Run with powershell`
    4. Use the selection window and select the primary DCS directory as instructed in step 2
    5. Again, go to your primary DCS directory under `Saved Games` and look for `\Mods\Aircraft\DCS.Liveries.Import\Entry.luaMods\Aircraft\DCS.Liveries.Import`
-		- Open Entry.lua with a text editor of your choice and edit line 4 by replacing the entry for <user> with your username
-		- Save and close Entry.lua
+		- Open *Entry.lua* with a text editor of your choice and edit line 4 by replacing the entry for <user> with your username
+		- Save and close *Entry.lua*
 
 ### There is currently no support for any Linux distros
 
