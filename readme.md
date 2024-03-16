@@ -14,13 +14,13 @@
 </div>
 
 
-`DCS_Custom` provides DCS players with custom liveries and the option to have them always stored at a centralized location, but requires the primary users input for initial deployment.
+`DCS Custom Liveries UWP` provides DCS players with custom liveries and the option to have them always stored at a centralized location, but requires the primary users input for initial deployment.
 - Contains several custom liveries
 - Sets a new centralized livery storage path
 - Allows future deployments to be performed with less expenditure
 
 # Installation
-   1. Clone the source with `git clone --recursive https://github.com/install-flatischler/DCS_Custom.git`
+   1. Clone the source with `git clone --recursive https://github.com/install-flatischler/DCS-Custom-Liveries-UWP.git`
    2. Check the following before continuing with the install:
 		- Open your home directory and search for `Saved Games`
 		- Look for your primary DCS directory under `Saved Games`
