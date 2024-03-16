@@ -9,9 +9,10 @@
 	
    ## General
    This project is only maintained by me - refer to the sections below for installation instructions and FAQ.
-   If you wish to contribute to the content provided here please submit a pull request message me directly using discord.
-
+   In case any of the following instructions are unclear, you happen to notice missing content or simply wish to contribute to the content provided here please submit a pull request message me directly using discord.
+   
 </div>
+
 
 `DCS_Custom` provides DCS players with custom liveries and the option to have them always stored at a centralized location, but requires the primary users input for initial deployment.
 - Contains several custom liveries
