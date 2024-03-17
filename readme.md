@@ -28,6 +28,17 @@
 		- Open `Entry.lua` with your preferred text editor. Edit line 4 by replacing *<user>* with your username
 		- Save and close `Entry.lua`
 
+
+# Installation
+   1. Clone the source with `git clone --recursive https://github.com/install-flatischler/DCS-Mission-Files-UWP.git`
+   2. Check the following before continuing with the install:
+		- Open your home directory and search for `Saved Games`
+		- Look for your primary DCS directory under `Saved Games`
+   3. Open the folder `lnk` and download the necessary files
+   4. Copy downloaded content into the respective folders provided by this repository
+   5. Select *CopyJob.ps1* with your mouse, open the interaction menu using RMB and select `Run with powershell`
+   6. Use the selection window and select the primary `DCS Saved Games` directory as instructed in step 2
+
 ### There is currently no support for any Linux distros
 
 # Credits
