@@ -23,7 +23,7 @@
     1. Clone the source with the following command: `git clone --recursive https://github.com/install-flatischler/DCS-Custom-Liveries-UWP.git`
     2. Right-click on `Custom_DCS.ps1` and select *Run with PowerShell* from the context menu.
     3. Use the selection window to choose the primary DCS directory under *Saved Games*.
-        - After selecting, the *Saved Games* folder should open automatically. From here, navigate to your `primary DCS directory`.
+		- After selecting, the *Saved Games* folder should open automatically. From here, navigate to your `primary DCS directory`.
     4. Locate the file `\Mods\Aircraft\DCS.Liveries.Import\Entry.lua` and modify its content as follows:
         - Open `Entry.lua` with your preferred text editor. Edit line 4 by replacing *<user>* with your username.
         - Save and close `Entry.lua`
