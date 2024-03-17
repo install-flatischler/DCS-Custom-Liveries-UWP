@@ -25,7 +25,7 @@
    3. Use the selection window to choose the primary DCS directory under *Saved Games*
 		- After selecting, the *Saved Games* folder should open automatically. From here, navigate to your `primary DCS directory`
    4. Locate the file `\Mods\Aircraft\DCS.Liveries.Import\Entry.lua` and modify its content as follows:
-		- Open `Entry.lua` with your preferred text editor. Edit line 4 by replacing *<user>* with your username
+		- Open `Entry.lua` with your preferred text editor. Edit line 4 by replacing <user> with your username
 		- Save and close `Entry.lua`
 
 ### There is currently no support for any Linux distros
