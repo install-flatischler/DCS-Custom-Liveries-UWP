@@ -20,3 +20,4 @@ Function Get-Folder($initialDirectory="")
 }
 $dcsfolder = Get-Folder
 Copy-Item ".\DCS.Liveries.Import" "$dcsfolder\Mods\Aircraft\" -Recurse -Force -EA SilentlyContinue
+ii "$env:Userprofile\Saved Games" -EA SilentlyContinue
