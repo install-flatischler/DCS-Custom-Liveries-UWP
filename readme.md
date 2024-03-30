@@ -28,5 +28,5 @@
 ### There is currently no support for any Linux distros
 
 # Credits
-   This is currently dependend on the DCSLM-Project made by <a href="https://github.com/pearcebergh">pearcebergh</a> which is currently under license by the BSD-3-Clause license.
-   Liveries are solely made by <a href="https://github.com/install-flatischler">me</a>, if you enjoy the project, starring it would be nice :)
+   - This is currently dependend on the DCSLM-Project made by <a href="https://github.com/pearcebergh">pearcebergh</a> which is currently under license by the BSD-3-Clause license.
+   - Liveries are solely made by <a href="https://github.com/install-flatischler">me</a>, if you enjoy the project, starring it would be nice :)
