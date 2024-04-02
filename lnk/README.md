@@ -2,4 +2,4 @@
 1. https://github.com/pearcebergh/DCSLiveryManager
 
 ### Quick Usage for DC
-`install https://www.digitalcombatsimulator.com/en/files/<ID>/`
+`install https://www.digitalcombatsimulator.com/en/files/3336616/`
