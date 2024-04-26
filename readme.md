@@ -23,7 +23,7 @@
    1. Check the `lnk` folder or directly download the latest release of [DCSLiveryManager](https://github.com/pearcebergh/DCSLiveryManager)
    2. Move `DCSLM.exe` to the DCS directory under `Saved Games` e. g. `"%USERPROFILE%\Saved Games\<DCS>\"`
    3. Open `DCSLM.exe` and run the following command:
-		- `install https://www.digitalcombatsimulator.com/en/files/<ID>/`
+		- `install https://www.digitalcombatsimulator.com/en/files/3336616/`
 
 ### There is currently no support for any Linux distros
 
