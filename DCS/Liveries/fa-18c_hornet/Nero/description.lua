@@ -39,7 +39,7 @@ livery = {
 	{"f18c2_number_X", DECAL ,"empty",true};
 
 }
-name = "Tear"
+name = "Nero"
 
 
 
