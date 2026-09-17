@@ -9,24 +9,42 @@
 	
    ## General
    This project is only maintained by me - refer to the sections below for installation instructions and FAQ.
-   In case any of the following instructions are unclear, you happen to notice missing content or simply wish to contribute to the content provided here please submit a pull request message me directly using discord.
+   In case any of the following instructions are unclear, you happen to notice missing content or simply wish to contribute to the content provided here please submit a pull request or message me directly using the means available.
    
 </div>
 
-
-`DCS Custom Liveries UWP` provides DCS players with custom liveries and the option to have them always stored at a centralized location, but requires the primary users input for initial deployment.
-- Contains several custom liveries
-- Sets a new centralized livery storage path
-- Allows future deployments to be performed with less expenditure
-
 # Installation
-   1. Check the `lnk` folder or directly download the latest release of [DCSLiveryManager](https://github.com/pearcebergh/DCSLiveryManager)
-   2. Move `DCSLM.exe` to the DCS directory under `Saved Games` e. g. `"%USERPROFILE%\Saved Games\<DCS>\"`
-   3. Open `DCSLM.exe` and run the following command:
-		- `install https://www.digitalcombatsimulator.com/en/files/3336616/`
+
+1. Install [Git for Windows](https://git-scm.com/download/win) if it is not already installed.
+2. Open `PowerShell`, `Command Prompt` or `Git Bash`.
+3. [Optional] Navigate to the directory where you want to store this repository, e. g.:
+   * `cd "%USERPROFILE%\Saved Games\"`
+4. Clone this repository using:
+
+   * `git clone <repository-url>`
+5. Navigate into the newly created repository directory:
+
+   * `cd <repository>`
+
+The repository URL can be copied using the `Code` button at the top of this GitHub repository.
+
+Example:
+
+* `git clone https://github.com/<username>/<repository>.git`
+
+## Updating
+
+Once the repository has been cloned, future updates can be downloaded directly using Git.
+
+1. Open `PowerShell`, `Command Prompt` or `Git Bash`.
+2. Navigate to the local repository directory.
+3. Run:
+
+   * `git pull`
+
+Git will download and apply the latest changes from this repository.
+
+> **Note:** Local changes to files tracked by Git may prevent updates from being applied automatically.
 
 ### There is currently no support for any Linux distros
 
-# Credits
-   - This is currently dependend on the DCSLM-Project made by <a href="https://github.com/pearcebergh">pearcebergh</a> which is currently under license by the BSD-3-Clause license.
-   - Liveries are solely made by <a href="https://github.com/install-flatischler">me</a>, if you enjoy the project, starring it would be nice :)
