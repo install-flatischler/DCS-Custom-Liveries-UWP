@@ -8,7 +8,6 @@ livery = {
 
 	{"pilot_F18_helmet", 0 ,"pilot_f18_helmet",false};
 	{"pilot_F18_helmet_hmd", 0 ,"pilot_f18_helmet_hmd_smote",false};
-	{"pilot_F18_helmet_glass", 0 ,"pilot_f18_visor",false};
 	
 	
 	{"f18c1_number_nose_right", 0 ,"F18C_1_DIFF_smote",false};

@@ -9,7 +9,6 @@ livery = {
 
 	{"pilot_F18_helmet", 0 ,"pilot_f18_helmet",false};
 	{"pilot_F18_helmet_hmd", 0 ,"pilot_f18_helmet_hmd",false};
-	{"pilot_F18_helmet_glass", 0 ,"pilot_f18_visor",false};
 	
 	
 	
@@ -40,8 +39,7 @@ livery = {
 
 
 	{"FPU_8A", 0 ,"FPU_8A",false};
-	{"LAU_115C", 0 ,"LAU_115C_DIFF",false};
-	{"Pylon_AAQ28L", 0 ,"Pylon_AAQ28L_diff",false};
+	
 	
 	
 
