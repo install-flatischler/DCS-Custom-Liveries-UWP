@@ -1,43 +1,42 @@
 livery = {
 
-	{"f18c1", 0 ,"F18C_1_DIFF_tamme",false};
+	{"f18c1", 0 ,"F18C_1_DIFF_nero",false};
 	{"f18c1", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
 
 	
-	{"f18c2", 0 ,"F18C_1_DIFF_2_tamme",false};
+	{"f18c2", 0 ,"F18C_2_DIFF_nero",false};
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 
 	{"pilot_F18_helmet", 0 ,"pilot_f18_helmet",false};
-	{"pilot_F18_helmet_hmd", 0 ,"pilot_f18_helmet_hmd_tamme",false};
+	{"pilot_F18_helmet_hmd", 0 ,"pilot_f18_helmet_hmd_nero",false};
 	{"pilot_F18_helmet_glass", 0 ,"pilot_f18_visor",false};
 	
 	
 	
-	{"f18c1_number_nose_right", 0 ,"F18C_1_DIFF_tamme",false};
+	{"f18c1_number_nose_right", 0 ,"F18C_1_DIFF_nero",false};
 	{"f18c1_number_nose_right", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"f18c1_number_nose_right", DECAL ,"tamme_bort_number_RIGHT",false};
+	{"f18c1_number_nose_right", DECAL ,"nero_bort_number_RIGHT",false};
 	
-	{"f18c1_number_nose_left", 0 ,"F18C_1_DIFF_tamme",false};
+	{"f18c1_number_nose_left", 0 ,"F18C_1_DIFF_nero",false};
 	{"f18c1_number_nose_left", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
-	{"f18c1_number_nose_left", DECAL ,"tamme_bort_number_LEFT",false};	
+	{"f18c1_number_nose_left", DECAL ,"nero_bort_number_LEFT",false};	
 
-	{"f18c2_kil_right", 0 ,"F18C_1_DIFF_2_tamme",false};
+	{"f18c2_kil_right", 0 ,"F18C_1_DIFF_2_nero",false};
 	{"f18c2_kil_right", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"f18c2_kil_right", DECAL ,"empty",true};
 	
 
-	{"f18c2_kil_left", 0 ,"F18C_1_DIFF_2_tamme",false};
+	{"f18c2_kil_left", 0 ,"F18C_1_DIFF_2_nero",false};
 	{"f18c2_kil_left", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"f18c2_kil_left", DECAL ,"empty",true};
 	
-	{"f18c1_number_F", 0 ,"F18C_1_DIFF_tamme",false};
+	{"f18c1_number_F", 0 ,"F18C_1_DIFF_nero",false};
 	{"f18c1_number_F", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
 	{"f18c1_number_F", DECAL ,"empty",true};	
 
-	{"f18c2_number_X", 0 ,"F18C_1_DIFF_2_tamme",false};
+	{"f18c2_number_X", 0 ,"F18C_1_DIFF_2_nero",false};
 	{"f18c2_number_X", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"f18c2_number_X", DECAL ,"empty",true};
-
 
 }
 name = "Tear"
