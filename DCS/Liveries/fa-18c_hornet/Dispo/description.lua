@@ -4,13 +4,12 @@ livery = {
 	{"f18c1", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
 
 	
-	{"f18c2", 0 ,"F18C_1_DIFF_2_dispo",false};
+	{"f18c2", 0 ,"F18C_2_DIFF_dispo",false};
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 
 	{"pilot_F18_helmet", 0 ,"pilot_f18_helmet",false};
 	{"pilot_F18_helmet_hmd", 0 ,"pilot_f18_helmet_hmd",false};
 	{"pilot_F18_visor_glass", 0 ,"pilot_f18_visor",false};
-	
 	
 	
 	{"f18c1_number_nose_right", 0 ,"F18C_1_DIFF_dispo",false};
@@ -40,13 +39,6 @@ livery = {
 
 
 	{"FPU_8A", 0 ,"FPU_8A",false};
-	
-	
-	
-
-
-	
-
 
 }
 name = "DISPO"
