@@ -20,12 +20,12 @@ livery = {
 	{"f18c1_number_nose_left", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
 	{"f18c1_number_nose_left", DECAL ,"dispo_bort_number_LEFT",false};	
 
-	{"f18c2_kil_right", 0 ,"F18C_1_DIFF_2_dispo",false};
+	{"f18c2_kil_right", 0 ,"F18C_2_DIFF_dispo",false};
 	{"f18c2_kil_right", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"f18c2_kil_right", DECAL ,"empty",true};
 	
 
-	{"f18c2_kil_left", 0 ,"F18C_1_DIFF_2_dispo",false};
+	{"f18c2_kil_left", 0 ,"F18C_2_DIFF_dispo",false};
 	{"f18c2_kil_left", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"f18c2_kil_left", DECAL ,"empty",true};
 	
@@ -33,7 +33,7 @@ livery = {
 	{"f18c1_number_F", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
 	{"f18c1_number_F", DECAL ,"empty",true};	
 
-	{"f18c2_number_X", 0 ,"F18C_1_DIFF_2_dispo",false};
+	{"f18c2_number_X", 0 ,"F18C_2_DIFF_dispo",false};
 	{"f18c2_number_X", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"f18c2_number_X", DECAL ,"F18C_bort_number2",false};	
 
